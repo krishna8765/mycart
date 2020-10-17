@@ -9,7 +9,7 @@ Framework:- Django
 
 Database:- PostgreSQL
 
-This website has 2 parts 1st is Home Page Shop and blog.
+This website has 2 pa
 
 Home Page of My E-Commerce Website
 ![](https://github.com/jaishivnani/MyAwesomeCart/blob/master/media/shop/images/HomePage.PNG)
